@@ -12,3 +12,6 @@ app.listen(port, () =>
     `Your Server don start to dey run on port: ${port}  oya start work!!!1`
   )
 );
+
+module.exports = app;
+
